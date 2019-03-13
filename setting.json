@@ -8,7 +8,7 @@
     "changeGroupPicture": [],
     "defaultReplyReader": "Sini kak @! temanin dedek \ud83d\ude25",
     "checkContact": false,
-    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~myyepz",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~myyepz UwU",
     "checkSticker": false,
     "autoRespondMention": {
         "status": true,
@@ -26,7 +26,7 @@
     "autoJoin": {
         "status": true,
         "ticket": false,
-        "message": "ty for invite @!",
+        "message": "UwU di invite, Ty @!",
         "reply": true
     },
     "changeCoverPicture": false,
@@ -54,7 +54,7 @@
     },
     "autoAdd": {
         "status": false,
-        "message": "cie nge add :v , minat order selfbot / bot protect add mybos https://line.me/ti/p/~myyepz",
+        "message": "cie nge add :v UwU (IWa^)",
         "reply": true
     }
 }
