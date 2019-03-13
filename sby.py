@@ -247,7 +247,7 @@ def helpmsg3():
         key = settings['keyCommand']
     else:
         key = ''
-    helpMsg3 =   "╭───「 Yepz 」" + "\n" + \
+    helpMsg3 =   "╭───「 IWa^ 」" + "\n" + \
                     "├" + key + "Me" + "\n" + \
                     "├" + key + "Profile" + "\n" + \
                     "├" + key + "Blocklist" + "\n" + \
@@ -383,7 +383,7 @@ def restoreProfile():
 
 def executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey):
     if cmd == '@logoutbot':
-        line.sendReplyMessage(msg_id, to, 'Bot will logged out')
+        line.sendReplyMessage(msg_id, to, 'yahh diusir:(')
         sys.exit('##----- PROGRAM STOPPED -----##')
     if cmd == "creator":
         line.sendReplyMessage(msg_id, to,"Contact Dibawah Ini \nAdalah Creator Bot")
